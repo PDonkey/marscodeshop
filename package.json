@@ -1,0 +1,4 @@
+"scripts": {
+  "env:clear": "node scripts/clear-env-from-github.mjs",
+  "env:sync": "node scripts/sync-env-to-github.mjs",
+}
